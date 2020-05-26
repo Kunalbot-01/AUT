@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-27T02:38:15 IST" name="Suite" finished-at="2020-05-27T02:38:49 IST" duration-ms="34182">
+    <groups>
+    </groups>
+    <test started-at="2020-05-27T02:38:15 IST" name="Test" finished-at="2020-05-27T02:38:49 IST" duration-ms="34182">
+      <class name="TestCase.TestAUT">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCase.TestAUT@79924b]" started-at="2020-05-27T02:38:15 IST" name="setup" finished-at="2020-05-27T02:38:33 IST" duration-ms="18152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_Home_Page_Appear()[pri:0, instance:TestCase.TestAUT@79924b]" started-at="2020-05-27T02:38:33 IST" name="test_Home_Page_Appear" finished-at="2020-05-27T02:38:42 IST" duration-ms="8561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Home_Page_Appear -->
+        <test-method signature="Main_Home_Page_Appear()[pri:1, instance:TestCase.TestAUT@79924b]" started-at="2020-05-27T02:38:42 IST" name="Main_Home_Page_Appear" finished-at="2020-05-27T02:38:49 IST" duration-ms="7377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Main_Home_Page_Appear -->
+      </class> <!-- TestCase.TestAUT -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
